@@ -25,7 +25,7 @@ userData = {
 }
 # ---------------------------------------------------
 
-url = 'https://www.ba-dresden.de/de/service/dokumente/dokumente-fuer-alle-studierenden.html?eID=dam_frontend_push&docID=5047'
+url = 'http://www.ba-dresden.de/fileadmin/dresden/downloads/zentrale-dokumente/Formular_Antrag_auf_Einsicht_in_Pruefungsunterlagen_2015_12_11.pdf'
 file_name = 'Antrag_Pruefungseinsicht' + '_' + userData['nachname'] + '.pdf'
 
 # Download file from `url` and save as tempFile:
